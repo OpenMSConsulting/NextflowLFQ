@@ -1,6 +1,6 @@
 ## Label Free Quantification workflow
 
-* install both [`Nextflow`](https://www.nextflow.io/docs/latest/getstarted.html#installation) and [`OpenMS`](https://www.openms.de/download/openms-binaries/).
+* install both [`Nextflow`](https://www.nextflow.io/docs/latest/getstarted.html#installation) and the current `develop` version of [`OpenMS`](https://github.com/OpenMS/OpenMS).
 * run the workflow
 
 ```
